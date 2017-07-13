@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MergeSort", "01.MergeSort\01.MergeSort.csproj", "{7C38E0BA-9DCE-462A-9EA4-2F7F36D67E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.QuickSort", "02.QuickSort\02.QuickSort.csproj", "{888A4556-4CE8-4D0E-8D77-0C750AAC7326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ImplementBinarySearch", "03.ImplementBinarySearch\03.ImplementBinarySearch.csproj", "{AE854840-F6EC-44D4-8195-04FBB73099F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C38E0BA-9DCE-462A-9EA4-2F7F36D67E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C38E0BA-9DCE-462A-9EA4-2F7F36D67E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C38E0BA-9DCE-462A-9EA4-2F7F36D67E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C38E0BA-9DCE-462A-9EA4-2F7F36D67E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888A4556-4CE8-4D0E-8D77-0C750AAC7326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888A4556-4CE8-4D0E-8D77-0C750AAC7326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888A4556-4CE8-4D0E-8D77-0C750AAC7326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888A4556-4CE8-4D0E-8D77-0C750AAC7326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE854840-F6EC-44D4-8195-04FBB73099F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE854840-F6EC-44D4-8195-04FBB73099F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE854840-F6EC-44D4-8195-04FBB73099F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE854840-F6EC-44D4-8195-04FBB73099F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
