@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8B6C805D-8A69-4DD1-B3AD-E8600BAD7FED}</ProjectGuid>
+    <ProjectGuid>{F12D21EE-BFC0-4BC5-8C2D-556ED0DC6DA0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_02.ProcessorScheduling</RootNamespace>
-    <AssemblyName>02.ProcessorScheduling</AssemblyName>
+    <RootNamespace>_03.KnightsTour</RootNamespace>
+    <AssemblyName>03.KnightsTour</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ProcessorScheduling.cs" />
+    <Compile Include="KnightsTour.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Task.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
