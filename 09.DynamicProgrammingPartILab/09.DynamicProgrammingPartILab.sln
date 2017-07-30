@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Fibonacci", "01.Fibonacci\01.Fibonacci.csproj", "{31627154-7FAE-4C4E-8578-6643E71F21A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LongestIncreasingSubsequence", "02.LongestIncreasingSubsequence\02.LongestIncreasingSubsequence.csproj", "{626E696F-133C-4FAD-89D4-09D4F5A04537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MoveDownRight", "03.MoveDownRight\03.MoveDownRight.csproj", "{ED78DEF7-BD91-46D0-93DF-18AE8F1F49E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RoadCutting", "04.RoadCutting\04.RoadCutting.csproj", "{3114865F-03B9-4B79-BEA3-93BB2438DEE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31627154-7FAE-4C4E-8578-6643E71F21A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31627154-7FAE-4C4E-8578-6643E71F21A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31627154-7FAE-4C4E-8578-6643E71F21A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31627154-7FAE-4C4E-8578-6643E71F21A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626E696F-133C-4FAD-89D4-09D4F5A04537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626E696F-133C-4FAD-89D4-09D4F5A04537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626E696F-133C-4FAD-89D4-09D4F5A04537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626E696F-133C-4FAD-89D4-09D4F5A04537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED78DEF7-BD91-46D0-93DF-18AE8F1F49E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED78DEF7-BD91-46D0-93DF-18AE8F1F49E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED78DEF7-BD91-46D0-93DF-18AE8F1F49E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED78DEF7-BD91-46D0-93DF-18AE8F1F49E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3114865F-03B9-4B79-BEA3-93BB2438DEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3114865F-03B9-4B79-BEA3-93BB2438DEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3114865F-03B9-4B79-BEA3-93BB2438DEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3114865F-03B9-4B79-BEA3-93BB2438DEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
