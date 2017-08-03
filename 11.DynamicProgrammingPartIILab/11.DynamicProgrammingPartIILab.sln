@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Knapsack", "01.Knapsack\01.Knapsack.csproj", "{6241708F-E596-48EE-AA06-2CA894F636FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LongestCommonSubsequence", "02.LongestCommonSubsequence\02.LongestCommonSubsequence.csproj", "{75FFAE3C-D177-4B47-BBF1-F111D041D45D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6241708F-E596-48EE-AA06-2CA894F636FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6241708F-E596-48EE-AA06-2CA894F636FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6241708F-E596-48EE-AA06-2CA894F636FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6241708F-E596-48EE-AA06-2CA894F636FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FFAE3C-D177-4B47-BBF1-F111D041D45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FFAE3C-D177-4B47-BBF1-F111D041D45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FFAE3C-D177-4B47-BBF1-F111D041D45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FFAE3C-D177-4B47-BBF1-F111D041D45D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
