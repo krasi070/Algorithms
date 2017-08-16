@@ -1,6 +1,7 @@
 ﻿namespace _04.SumUnlimitedAmountOfCoins
 {
     using System;
+    using System.Collections.Generic;
     using System.Linq;
 
     public class SumUnlimitedAmountOfCoins
@@ -14,7 +15,7 @@
                 .Select(int.Parse)
                 .ToArray();
             int sum = int.Parse(Console.ReadLine());
-
+        
             CalculateNumberOfCombinations(coins, sum);
             Console.WriteLine(numberOfCombinations);
         }
